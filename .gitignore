@@ -1,3 +1,7 @@
 **/.ipynb_checkpoints/
 **/__pycache__/
-myenv/
+**/Lib
+**/Scripts
+**/share
+desktop.ini
+pyvenv.cfg
